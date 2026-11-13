@@ -1,0 +1,96 @@
+{
+  "item": {
+    "id": "com.ydnac.watch.fish",
+    "restype": "quick_app",
+    "name": "腕谷物语",
+    "description": "复刻自游戏“星露谷物语”\n⛏ 挖矿战斗，层层有惊喜\n摇杆探索120层各色超大地图，挑战十余种机制各异的怪物，收集矿物、武器与装备，不同搭配打出不同效果；无尽矿洞更有BOSS与专属镐甲等你征服。\n\n🌱 农场经营，四季皆可种\n近40种农作物搭配季节与时间系统，稻草人、洒水器、高级农具高效助力；温室、孵蛋器、献祭任务与铁匠铺持续拓展，种田也能玩出高自由度。\n\n🐟 钓鱼赶海，致富路更宽\n多地图与时间流逝结合，体感、全屏点击随心操作，60余种鱼类搭配鱼竿、渔具、鱼饵进阶成长；赶海模块与蟹笼加入，让海边收获也成为日常。\n\n🐂 牧场养殖，治愈又忙碌\n室内饲养、室外放牧，捡鸡蛋、剪羊毛、挤牛奶；自由建造升级鸡舍畜棚，应对神秘狼袭击，结识新NPC玛妮，自由摆放室内设备，打造理想牧场。\n\n🏠 家园收集，长线更耐玩\n家园经营、邮件系统、赌场与收集特色系统齐聚；自动喂食、自动收集、长按丢弃、自动保存等便利功能加持，睡觉逻辑重构，游玩节奏更顺畅。\n\n🛠 稳定体验，安心开玩\n持续优化内存、矿洞性能与平衡性，修复存档还原、钓鱼图鉴备份、部分机型钓鱼返回、钓鱼体力、挖矿楼梯显示、牧场动物进食产出等问题，并大幅优化小内存设备重启表现；切换模块仍建议退出重进。\n\n游戏需要通过同步器激活\n交流群：839861515\n进群密码：会",
+    "preview": [
+      "media/mbp-2026-02-01-00-27-26.png",
+      "media/mbp-2026-02-01-00-27-41.png",
+      "media/26b92c96d79909edecce928205098e61.png",
+      "media/mbp (1).png",
+      "media/mbp-2025-09-30-17-28-12.png",
+      "media/mbp (5).png",
+      "media/mpslice.png",
+      "media/腕谷物语_声明.png"
+    ],
+    "icon": "media/farmlogo.png",
+    "cover": "media/腕谷物语.png",
+    "author": [
+      {
+        "name": "YGAME",
+        "bindABAccount": true
+      }
+    ]
+  },
+  "links": [
+    {
+      "title": "购买链接",
+      "url": "https://ifdian.net/item/88ff636ca5f011f1b0665254001e7c00",
+      "icon": "globe"
+    },
+    {
+      "title": "同步器下载",
+      "url": "https://spas.lanzouw.com/s/ygame",
+      "icon": "download"
+    }
+  ],
+  "downloads": {
+    "xmrw5": {
+      "version": "4.6.0",
+      "file_name": "downloads/腕谷物语4.6.0(红米56).rpk",
+      "versionCode": 261013
+    },
+    "xmrw6": {
+      "version": "4.6.0",
+      "file_name": "downloads/腕谷物语4.6.0(红米56).rpk",
+      "versionCode": 261013
+    },
+    "xmb10": {
+      "version": "4.6.0",
+      "file_name": "downloads/腕谷物语4.6.0(米环10).rpk",
+      "versionCode": 261013
+    },
+    "xmb10nfc": {
+      "version": "4.6.0",
+      "file_name": "downloads/腕谷物语4.6.0(米环10).rpk",
+      "versionCode": 261013
+    },
+    "xmb10p": {
+      "version": "4.6.0",
+      "file_name": "downloads/腕谷物语4.6.0(米环9Pro).rpk",
+      "versionCode": 261013
+    },
+    "xmb11": {
+      "version": "4.6.0",
+      "file_name": "downloads/腕谷物语4.6.0(米环10).rpk",
+      "versionCode": 261013
+    },
+    "xmb11nfc": {
+      "version": "4.6.0",
+      "file_name": "downloads/腕谷物语4.6.0(米环10).rpk",
+      "versionCode": 261013
+    },
+    "xmb9": {
+      "version": "4.6.0",
+      "file_name": "downloads/腕谷物语4.6.0(米环9).rpk",
+      "versionCode": 261013
+    },
+    "xmb9p": {
+      "version": "4.6.0",
+      "file_name": "downloads/腕谷物语4.6.0(米环9Pro).rpk",
+      "versionCode": 261013
+    },
+    "xmws3": {
+      "version": "4.6.0",
+      "file_name": "downloads/腕谷物语4.6.0(米表S3S4).rpk",
+      "versionCode": 261013
+    },
+    "xmws4": {
+      "version": "4.6.0",
+      "file_name": "downloads/腕谷物语4.6.0(米表S3S4).rpk",
+      "versionCode": 261013
+    }
+  },
+  "ext": {}
+}
